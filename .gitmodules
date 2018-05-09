@@ -1,0 +1,3 @@
+[submodule "src/github.com/zfjagann/golang-ring"]
+	path = src/github.com/zfjagann/golang-ring
+	url = https://github.com/zfjagann/golang-ring
